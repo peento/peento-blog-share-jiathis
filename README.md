@@ -1,7 +1,7 @@
 peento-blog-share-jiathis
 =========================
 
-给文章页面增加社会化分享栏
+给文章页面增加 [JiaThis社会化分享栏](http://jiathis.com/)
 
 
 使用方法
